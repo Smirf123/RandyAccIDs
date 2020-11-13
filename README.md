@@ -1,5 +1,5 @@
 # RandyAccIDs
-This is literally just a list of all of Randys account IDs on Discord.
+This is literally just a list of all of Randys account IDs.
 
 # CHECK THE WIKI!!!
 https://github.com/Itz-Hyperz/RandyAccIDs/wiki
