@@ -3,7 +3,7 @@ This is literally just a list of all of Randys account IDs. Please use this to w
 
 #
 
-### ALERT!
+### Automate Randy Bans W/RanGuard!
 We are so happy to announce that RanGuard is NOW IN DEVELOPMENT!
 What does this mean? This means that we will have a bot for users that
 will automatically ban all of Randys accounts from your server!
@@ -12,7 +12,7 @@ will automatically ban all of Randys accounts from your server!
 
 # 
 
-### CHECK THE WIKI!!!
+### Check out our Wiki:
 https://github.com/Itz-Hyperz/RandyAccIDs/wiki
 
 # List Of IDs (Updated Daily)
