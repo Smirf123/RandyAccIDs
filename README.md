@@ -1,14 +1,18 @@
 # RandyAccIDs
-This is literally just a list of all of Randys account IDs.
+This is literally just a list of all of Randys account IDs. Please use this to whatever use you can. Please read below as we are doing our best to automate a system to stop Randy from harrassing you and others, operation #StopTheRetards is now in action!
 
-## ALERT!
+#
+
+### ALERT!
 We are so happy to announce that RanGuard is NOW IN DEVELOPMENT!
 What does this mean? This means that we will have a bot for users that
 will automatically ban all of Randys accounts from your server!
 
 ### Invite: (Coming Soon)
 
-## CHECK THE WIKI!!!
+# 
+
+### CHECK THE WIKI!!!
 https://github.com/Itz-Hyperz/RandyAccIDs/wiki
 
 # List Of IDs (Updated Daily)
